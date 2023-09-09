@@ -6,7 +6,7 @@ Portafolio de trabajos
 - Presentación personal como profesional
 
 --------------------------
-- Primer mapa interactivo
+- Primer mapa interactivo (Link a la pagina en la imagen)
 <a href="https://mayingo.github.io/TeoriaColor/">
     <img src="https://s1.significados.com/foto/combinaciones-de-colores-en-la-teoria-del-color.jpg" alt="Texto alternativo" width="300" height="200" style="position: absolute; top: 50px; left: 50px;">
 </a>
