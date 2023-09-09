@@ -7,7 +7,6 @@ Portafolio de trabajos
 
 --------------------------
 - Primer mapa interactivo
-   
-  [![Texto alternativo](https://s1.significados.com/foto/combinaciones-de-colores-en-la-teoria-del-color.jpg)](https://mayingo.github.io/TeoriaColor/)
-  https://mayingo.github.io/TeoriaColor/
-
+<a href="https://mayingo.github.io/TeoriaColor/">
+    <img src="https://s1.significados.com/foto/combinaciones-de-colores-en-la-teoria-del-color.jpg" alt="Texto alternativo" width="300" height="200" style="position: absolute; top: 50px; left: 50px;">
+</a>
