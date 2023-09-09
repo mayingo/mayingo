@@ -12,7 +12,10 @@ Presentación personal como profesional
 - Habilidades clave: Conozco la utilizacion de diversos lenguajes de programacion como los son python, java, html, js entre otros lenguajes usados en IDs de interfaces, aunque siempre abierto a aprender un nuevo lenguaje de programacion.
 - Metas y visión: Espero aprender aun mas lenguajes de programacion asi como mejorar en ellos para lograr crear programas que solucione problematicas del dia a dia. A su vez espero adquir mejores conocimientos hacerca de llevar acabo proyectos propios ya sean aplicaciones, paginas webs, entre otras cosas, todo esto favoreciendo el desarrollo mio como programador
 --------------------------
-- Primer mapa interactivo (Link a la pagina en la imagen)
+Proyectos recientes
+----------------------------
+Primer mapa interactivo (Link a la pagina en la imagen) 
+
 <a href="https://mayingo.github.io/TeoriaColor/">
     <img src="https://s1.significados.com/foto/combinaciones-de-colores-en-la-teoria-del-color.jpg" alt="Texto alternativo" width="300" height="200" style="position: absolute; top: 50px; left: 50px;">
 </a>
