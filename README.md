@@ -7,6 +7,9 @@ Portafolio de trabajos
 
 --------------------------
 - Primer mapa interactivo
-   https://mayingo.github.io/TeoriaColor/ 
+<a href="[https://www.php.net/](https://mayingo.github.io/TeoriaColor/ )" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg](https://s1.significados.com/foto/combinaciones-de-colores-en-la-teoria-del-color.jpg)" width="36" height="36" alt="" /></a>
+  
+   https://mayingo.github.io/TeoriaColor/
+  
   
 
