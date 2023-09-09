@@ -7,6 +7,6 @@ Portafolio de trabajos
 
 --------------------------
 - Primer mapa interactivo
-
+   https://mayingo.github.io/TeoriaColor/ 
   
 
