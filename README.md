@@ -10,6 +10,7 @@ Presentación personal como profesional
 - Introducción personal: Soy Mario Azhael Hinojos Delgado, estudiante de la carrera "Ingenieria en Sistemas Computacionales" actualmente cursando 5to semestre del mismo
 - Historia profesional: He realizado varios trabajos simples desde aplicaciones en python haciendo uso de programacion orientada a objetos hasta otros que hacen uso de conceptos estadisticos, tambien eh trabajado en otros proyectos de java como una aplicacion movil asi como conceptos de resolucion de matrices por gaus-jordan
 - Habilidades clave: Conozco la utilizacion de diversos lenguajes de programacion como los son python, java, html, js entre otros lenguajes usados en IDs de interfaces, aunque siempre abierto a aprender un nuevo lenguaje de programacion.
+- Metas y visión: Espero aprender aun mas lenguajes de programacion asi como mejorar en ellos para lograr crear programas que solucione problematicas del dia a dia. A su vez espero adquir mejores conocimientos hacerca de llevar acabo proyectos propios ya sean aplicaciones, paginas webs, entre otras cosas, todo esto favoreciendo el desarrollo mio como programador
 --------------------------
 - Primer mapa interactivo (Link a la pagina en la imagen)
 <a href="https://mayingo.github.io/TeoriaColor/">
