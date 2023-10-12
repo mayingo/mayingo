@@ -17,7 +17,7 @@ Proyectos recientes
 - Primer mapa interactivo (Link a la pagina en la imagen) 
 <p align="center">
     <a href="https://mayingo.github.io/TeoriaColor/">
-        <img src="https://s1.significados.com/foto/combinaciones-de-colores-en-la-teoria-del-color.jpg" alt="Texto alternativo" width="300" height="200" style="position: absolute; top: 50px; left: 50px;">
+        <img src="teoria_del_Color" alt="Texto alternativo" width="300" height="200" style="position: absolute; top: 50px; left: 50px;">
     </a>
 </p>
 - Galeria de Proyectos Blender (Link a la pagina en la imagen) 
