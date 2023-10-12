@@ -23,7 +23,7 @@ Proyectos recientes
 - Galeria de Proyectos Blender (Link a la pagina en la imagen) 
 <p align="center">
     <a href="https://mayingo.github.io/Galeria_Proyectos_Blender/">
-        <img src="galeria_proyectos_blender.png" alt="Texto alternativo" width="300" height="200" style="position: absolute; top: 50px; left: 50px;">
+        <img src="galeria_proyectos_blender.png" alt="Texto alternativo" width="400" height="300" style="position: absolute; top: 50px; left: 50px;">
     </a>
 </p>
 
